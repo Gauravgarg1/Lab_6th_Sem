@@ -1,0 +1,5 @@
+Type in terminal
+
+
+
+python main.py depth ./problems/Q1.txt
